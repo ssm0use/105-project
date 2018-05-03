@@ -4,7 +4,8 @@ section {
 	margin: 100px auto;
 }
 section p {
-	font: 16px 'Open Sans';
+	font-family: 'Audiowide', cursive;
+	font: 16px;
 	color: #454545;
 }
 section h1 {
